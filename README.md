@@ -14,6 +14,8 @@ Jump to [Tech Stack](#tech-stack)
 Jump to [License](#license)  
 Jump to [Author](#author)
 
+Try it out [Windows Executable](#get-persona)
+
 ---
 
 ## Overview  
@@ -152,6 +154,15 @@ On launch:
 > After interview:
 
 Get detailed analytics with graphs and recruiter-style notes.
+
+## Get Persona
+
+**💾 Download the fully compiled Windows version of Persona here:**
+
+[⬇️ Download Persona (.exe, 420 MB)](https://drive.google.com/file/d/1SVWAxLc-BGjMz_MPT3OJru-wEnplE19_/view?usp=sharing)
+
+> ⚠️ Note: Make sure you have **at least 16 GB RAM** and Ollama installed for GPT-OSS:20B and active.
+
 
 ## Tech Stack
 
