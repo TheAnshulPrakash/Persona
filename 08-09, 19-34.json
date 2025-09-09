@@ -1,0 +1,36 @@
+[{
+    "question_number": 1,
+    "type": "General",
+    "text": "Hi there! Thanks for joining us today. Could you start by telling me a bit about yourself\u2014your background and what drew you to a career in police or law enforcement?",
+    "evaluation": {
+        "english_proficiency": null,
+        "confidence": null,
+        "content_quality": null,
+        "notes": ""
+    },
+    "end": false
+},
+{
+    "question_number": 2,
+    "type": "General",
+    "text": "That\u2019s great to hear! Could you share a specific moment or experience from your childhood that sparked your interest in law enforcement?",
+    "evaluation": {
+        "english_proficiency": null,
+        "confidence": null,
+        "content_quality": null,
+        "notes": ""
+    },
+    "end": false
+},
+{
+    "question_number": 3,
+    "type": "General",
+    "text": "Absolutely, I understand. It was a pleasure speaking with you. If any further questions come up, feel free to reach out. Thank you for your time and best of luck with your future endeavors!",
+    "evaluation": {
+        "english_proficiency": 9,
+        "confidence": 9,
+        "content_quality": 8,
+        "notes": "Friendly, concise, good closure."
+    },
+    "end": true
+}]

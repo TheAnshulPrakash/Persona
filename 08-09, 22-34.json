@@ -1,0 +1,96 @@
+[{
+    "question_number": 1,
+    "type": "General",
+    "text": "Hey there! I\u2019d love to start by hearing a bit about yourself\u2014what brings you to this interview and what you\u2019re most excited about in tech?",
+    "evaluation": {
+        "english_proficiency": null,
+        "confidence": null,
+        "content_quality": null,
+        "notes": ""
+    },
+    "end": false
+},
+{
+    "question_number": 2,
+    "type": "General",
+    "text": "Great to have you with us! Could you share a bit about your background\u2014what coursework, projects, or hobbies have shaped your interest in coding and data science?",
+    "evaluation": {
+        "english_proficiency": 8,
+        "confidence": 7,
+        "content_quality": 8,
+        "notes": "Friendly intro, clear English, confident tone."
+    },
+    "end": false
+},
+{
+    "question_number": 3,
+    "type": "Programming",
+    "text": "That sounds intriguing! Can you walk me through one of those AI\u2011powered social media apps\u2014what tech stack did you use and what were the main challenges you tackled?",
+    "evaluation": {
+        "english_proficiency": 7,
+        "confidence": 6,
+        "content_quality": 7,
+        "notes": "Good effort, but could use more detail on stack and challenges."
+    },
+    "end": false
+},
+{
+    "question_number": 4,
+    "type": "Technical",
+    "text": "Nice! I\u2019m curious about how you structured the data flow\u2014how did you handle the image uploads, AI processing, and voting logic from the client to your backend?",
+    "evaluation": {
+        "english_proficiency": 7,
+        "confidence": 6,
+        "content_quality": 7,
+        "notes": "Clear explanation, but more detail on backend and API design would help."
+    },
+    "end": false
+},
+{
+    "question_number": 5,
+    "type": "Behavioral",
+    "text": "That sounds like a solid system. Working on projects with multiple moving parts can be tricky\u2014can you describe a time when you had to collaborate with a teammate (or a designer/QA) and how you ensured the feature stayed on track?",
+    "evaluation": {
+        "english_proficiency": 7,
+        "confidence": 6,
+        "content_quality": 7,
+        "notes": "Good setup, looking for a concrete collaboration example."
+    },
+    "end": false
+},
+{
+    "question_number": 6,
+    "type": "General",
+    "text": "I see, it\u2019s impressive to see a project through independently. Switching gears a bit\u2014what\u2019s your favorite programming language so far, and why?",
+    "evaluation": {
+        "english_proficiency": 8,
+        "confidence": 7,
+        "content_quality": 7,
+        "notes": "Strong self\u2011confidence, good clarity."
+    },
+    "end": false
+},
+{
+    "question_number": 7,
+    "type": "DSA",
+    "text": "Great! Let\u2019s dive into a quick algorithm discussion. Suppose you have an array of integers and you need to find the longest contiguous subarray where the sum of its elements is zero. How would you approach solving this, and what would be the time complexity?",
+    "evaluation": {
+        "english_proficiency": 8,
+        "confidence": 7,
+        "content_quality": 7,
+        "notes": "Clear answer, good depth."
+    },
+    "end": false
+},
+{
+    "question_number": 8,
+    "type": "General",
+    "text": "Absolutely, no worries at all! Thanks for taking the time. We\u2019ll keep this note and follow up once you\u2019re available to finish up. Have a great call and good luck!",
+    "evaluation": {
+        "english_proficiency": 9,
+        "confidence": 8,
+        "content_quality": 9,
+        "notes": "Polite wrap\u2011up, keeps tone friendly."
+    },
+    "end": true
+}]

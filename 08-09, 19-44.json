@@ -1,0 +1,48 @@
+[{
+    "question_number": 1,
+    "type": "General",
+    "text": "Hi there! To kick things off, could you please tell me a bit about yourself\u2014your background, interests, and what brings you to apply for a role in Civil Services and Government Administration?",
+    "evaluation": {
+        "english_proficiency": null,
+        "confidence": null,
+        "content_quality": null,
+        "notes": ""
+    },
+    "end": false
+},
+{
+    "question_number": 2,
+    "type": "General",
+    "text": "That\u2019s great to hear! Could you share what specifically sparked that interest in Civil Services back when you were a child, and how that passion has evolved over the years?",
+    "evaluation": {
+        "english_proficiency": 8,
+        "confidence": 7,
+        "content_quality": 7,
+        "notes": "Clear, but could elaborate more on specifics."
+    },
+    "end": false
+},
+{
+    "question_number": 3,
+    "type": "General",
+    "text": "Absolutely, I understand. Let\u2019s keep it brief\u2014what\u2019s one key reason you\u2019re excited about this Civil Services role, and how do you see your background supporting that? We can pick up later if you\u2019d like.",
+    "evaluation": {
+        "english_proficiency": 9,
+        "confidence": 8,
+        "content_quality": 8,
+        "notes": "Good clarity, concise. Good to keep it short."
+    },
+    "end": false
+},
+{
+    "question_number": 4,
+    "type": "General",
+    "text": "Thank you for your time today. It was a pleasure speaking with you. Wishing you all the best, and I hope we can continue this conversation soon. Take care!",
+    "evaluation": {
+        "english_proficiency": 9,
+        "confidence": 9,
+        "content_quality": 9,
+        "notes": "Warm, professional closing."
+    },
+    "end": true
+}]

@@ -1,0 +1,60 @@
+[{
+    "question_number": 1,
+    "type": "General",
+    "text": "Hey there! Thanks for taking the time to chat with me today. Could you start by telling me a bit about yourself and what got you interested in the skilled trades field?",
+    "evaluation": {
+        "english_proficiency": null,
+        "confidence": null,
+        "content_quality": null,
+        "notes": ""
+    },
+    "end": false
+},
+{
+    "question_number": 2,
+    "type": "General",
+    "text": "Got it, thanks! Just to make sure I\u2019m following, could you share a little more about your background and what specifically draws you to this role?",
+    "evaluation": {
+        "english_proficiency": null,
+        "confidence": null,
+        "content_quality": null,
+        "notes": ""
+    },
+    "end": false
+},
+{
+    "question_number": 3,
+    "type": "General",
+    "text": "That\u2019s great\u2014studying at Manipal Institute of Technology must give you a solid technical foundation. What kind of projects or coursework have you worked on that you think would be most relevant to a skilled trades position like this?",
+    "evaluation": {
+        "english_proficiency": null,
+        "confidence": null,
+        "content_quality": null,
+        "notes": ""
+    },
+    "end": false
+},
+{
+    "question_number": 4,
+    "type": "Technical",
+    "text": "Sounds good! Let\u2019s dive into a scenario you might encounter on the job. Suppose you\u2019re installing a new electrical panel in a residential building and you notice a wiring fault that could potentially cause a short circuit. Walk me through how you would diagnose and resolve the issue safely.",
+    "evaluation": {
+        "english_proficiency": 6,
+        "confidence": 6,
+        "content_quality": 6,
+        "notes": "Candidate provided a concise response, mentioned safety first and basic diagnostic steps. Could elaborate more on tools and verification methods."
+    },
+    "end": false
+},
+{
+    "question_number": 5,
+    "type": "General",
+    "text": "Sure thing\u2014thanks for letting me know. If you\u2019d like to finish up with any quick questions or thoughts before we part ways, I\u2019m all ears. Otherwise, I\u2019ll send you a short summary of today\u2019s discussion and the next steps. Take care!",
+    "evaluation": {
+        "english_proficiency": 8,
+        "confidence": 8,
+        "content_quality": 8,
+        "notes": "Friendly and respectful closing. Candidate indicated need to leave, no further answers."
+    },
+    "end": true
+}]
