@@ -18,6 +18,8 @@ Try it out [Windows Executable](#get-persona)
 
 ---
 
+Live walktrough 👉 [Youtube](https://youtu.be/p3zfJGWsXyQ)
+
 ## Overview  
 **Persona** is a completely **local AI interview coach** that helps candidates practice for interviews across any domain.  
 
